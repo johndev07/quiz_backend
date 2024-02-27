@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+
+# macOS
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+
+# Visual Studio Code settings
+.vscode/
+
+# npm
+*.npmrc
+*.lock
+
+# Yarn
+yarn-error.log
+.pnp.*
+
+# OS generated files
+Thumbs.db
+Desktop.ini
